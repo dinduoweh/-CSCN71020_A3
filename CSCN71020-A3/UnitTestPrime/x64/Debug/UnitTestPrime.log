@@ -1,0 +1,28 @@
+﻿  UnitTestPrime.cpp
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(14,30): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(15,30): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(16,30): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(21,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(22,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(23,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(28,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(29,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
+C:\Users\Admin\source\repos\-CSCN71020_A3\CSCN71020-A3\UnitTestPrime\UnitTestPrime.cpp(30,34): error C3861: 'isPrime': identifier not found
+  (compiling source file '/UnitTestPrime.cpp')
+  
