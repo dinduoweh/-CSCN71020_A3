@@ -13,3 +13,7 @@ const char* isPrime(int input) {
 	}
 	return "Prime";
 }
+
+int main(void) {
+	return 0;
+}
