@@ -1,5 +1,8 @@
 #include "pch.h"
 #include "CppUnitTest.h"
+extern "C" {
+#include "../assignment 3/main.h"
+}
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
@@ -18,7 +21,7 @@ namespace UnitTestPrime
 
 		TEST_METHOD(TEStnonprime)
 		{
-			Assert::AreEqual("Not Prime", isPrime(4));
+			Assert::AreEqual("Not Prime", isPrime(4)); 
 			Assert::AreEqual("Not Prime", isPrime(8));
 			Assert::AreEqual("Not Prime", isPrime(12));
 		}
