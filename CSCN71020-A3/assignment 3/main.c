@@ -7,7 +7,7 @@ const char* isPrime(int input) {
 	}
 	for (int i = 2; i * i <= input; i++) {
 		if (input % i == 0) {
-			return "Not prime";
+			return "Not Prime";
 		}
 		return "Prime";
 	}
